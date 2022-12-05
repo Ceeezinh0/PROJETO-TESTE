@@ -14,3 +14,8 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(139, 111, 111);
 }
+#diminui{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
